@@ -18,18 +18,26 @@ Agregar una fundamentacion breve del porqué se realiza el proyecto o que proble
 * Python 3.6
 * Virtualenv
 * Flask 1.0.2 
+* Otras tecnologias usadas (por ej: Raspberry Pi) 
 
 
 
 ## Instación ( Por ejemplo )
 ```bash
-git clone https://github.com/WilliBobadilla/Sistemaganaderia.git
+git clone https://github.com/WilliBobadilla/ejemplo_readme_license.git 
+```
+```bash 
+cd ejemplo_readme_license
+```
 
-cd Sistemaganaderia
+```bash 
 
 python3 -m venv env
-
+```
+```bash 
 source env/bin/activate
+```
+```bash 
 
 pip install -r requirements.txt
 
