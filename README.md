@@ -1,2 +1,17 @@
-# ejemplo_readme_license
-Es un ejemplo para el readme, de los datos que dede tener y tambien la licencia que se puede usar para el repositorio de la hackathon de Penguin Academy 
+# Descripción básica del proyecto 
+Agregar una descripción basica del proyecto 
+
+# Fundamentación del proyecto 
+
+Agregar una fundamentacion breve del porqué se realiza el proyecto o que problematica soluciona 
+
+
+# Integrantes del proyecto 
+* Nombre del primer integrante y @usuario en github
+* Nombre del segundo integrante y @usuario en github 
+* Nombre del tercer integrante,y @usuario en github y asi sucesivamente 
+
+
+
+
+
