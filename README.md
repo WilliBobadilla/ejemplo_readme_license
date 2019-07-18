@@ -52,5 +52,8 @@ Para sistems operativos Windows
 python manage.py runserver 
 ```
 
+## Licencia 
+La licencia del proyecto esta bajo la licencia GNU General Public License v3.0 - Mirar [LICENSE](LICENSE) 
+
 
 
