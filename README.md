@@ -42,6 +42,15 @@ source env/bin/activate
 pip install -r requirements.txt
 
 ```
+## Corriendo el servidor 
+Para sistemas operativos Linux 
+```bash
+python3 manage.py runserver 
+```
+Para sistems operativos Windows 
+```bash
+python manage.py runserver 
+```
 
 
 
