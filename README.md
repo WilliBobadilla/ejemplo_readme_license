@@ -13,12 +13,15 @@ Agregar una fundamentacion breve del porqué se realiza el proyecto o que proble
 
 
 
-## Requirimientos o tecnologías usadas (Por ejemplo ) 
+## Requirimientos de software (Por ejemplo ) 
 
 * Python 3.6
 * Virtualenv
 * Flask 1.0.2 
-* Otras tecnologias usadas (por ej: Raspberry Pi) 
+
+## Requerimientos de Hardware ( Por ejemplo ) 
+* Raspberry Pi
+* Otras tecnologias usadas (por ej: Sensores, etc ) 
 
 
 
